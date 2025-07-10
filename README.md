@@ -64,7 +64,7 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 1. Complete all deployment tasks
 2. Set up CI/CD pipelines with GitHub Actions
 3. Deploy both frontend and backend to production
-4. Document your deployment process in the README.md
+4. Document your deployment pprocess in the README.md
 5. Include screenshots of your CI/CD pipeline in action
 6. Add URLs to your deployed applications
 
